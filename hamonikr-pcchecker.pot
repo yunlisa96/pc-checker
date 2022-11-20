@@ -1,0 +1,190 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-20 22:33+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: debian/usr/bin/pcchecker.py:27
+msgid "Alarm settings"
+msgstr ""
+
+#: debian/usr/bin/pcchecker.py:35
+msgid ""
+"When the alarm is turned on, an alarm is\n"
+" displayed in a pop-up window for the item\n"
+" whose security status is 'dangerous'."
+msgstr ""
+
+#: debian/usr/bin/pcchecker.py:97
+msgid "Product no"
+msgstr ""
+
+#: debian/usr/bin/pcchecker.py:98
+msgid "Operating system"
+msgstr ""
+
+#: debian/usr/bin/pcchecker.py:99
+msgid "Memory"
+msgstr ""
+
+#: debian/usr/bin/pcchecker.py:100
+msgid "Hard drive"
+msgstr ""
+
+#: debian/usr/bin/pcchecker.py:108 debian/usr/bin/pcchecker.py:200
+msgid "Password"
+msgstr ""
+
+#: debian/usr/bin/pcchecker.py:110 debian/usr/bin/pcchecker.py:218
+msgid "Upgrade"
+msgstr ""
+
+#: debian/usr/bin/pcchecker.py:112 debian/usr/bin/pcchecker.py:231
+msgid "Firewall"
+msgstr ""
+
+#: debian/usr/bin/pcchecker.py:114 debian/usr/bin/pcchecker.py:245
+msgid "Back up"
+msgstr ""
+
+#: debian/usr/bin/pcchecker.py:122 debian/usr/bin/pcchecker.py:165
+#: debian/usr/bin/set.py:31 debian/usr/bin/set.py:110
+msgid "Safety"
+msgstr ""
+
+#: debian/usr/bin/pcchecker.py:123 debian/usr/bin/pcchecker.py:166
+msgid "Your system is safe."
+msgstr ""
+
+#: debian/usr/bin/pcchecker.py:126 debian/usr/bin/pcchecker.py:169
+#: debian/usr/bin/set.py:34 debian/usr/bin/set.py:59 debian/usr/bin/set.py:112
+msgid "Caution"
+msgstr ""
+
+#: debian/usr/bin/pcchecker.py:127 debian/usr/bin/pcchecker.py:170
+msgid "System administration needs attention."
+msgstr ""
+
+#: debian/usr/bin/pcchecker.py:130 debian/usr/bin/pcchecker.py:173
+#: debian/usr/bin/set.py:37 debian/usr/bin/set.py:114 debian/usr/bin/set.py:121
+msgid "Danger"
+msgstr ""
+
+#: debian/usr/bin/pcchecker.py:131 debian/usr/bin/pcchecker.py:174
+msgid "Please manage the system."
+msgstr ""
+
+#: debian/usr/bin/set.py:32 debian/usr/bin/set.py:35 debian/usr/bin/set.py:38
+msgid "It has been"
+msgstr ""
+
+#: debian/usr/bin/set.py:32 debian/usr/bin/set.py:35 debian/usr/bin/set.py:38
+msgid "days since you changed your password."
+msgstr ""
+
+#: debian/usr/bin/set.py:56
+msgid "New"
+msgstr ""
+
+#: debian/usr/bin/set.py:57 debian/usr/bin/set.py:60 debian/usr/bin/set.py:118
+msgid "There are"
+msgstr ""
+
+#: debian/usr/bin/set.py:57 debian/usr/bin/set.py:60
+msgid "upgradeable packages."
+msgstr ""
+
+#: debian/usr/bin/set.py:73
+msgid "Inactive"
+msgstr ""
+
+#: debian/usr/bin/set.py:74
+msgid "Firewall is disabled."
+msgstr ""
+
+#: debian/usr/bin/set.py:79
+msgid "Active"
+msgstr ""
+
+#: debian/usr/bin/set.py:80
+msgid "Firewall is enabled."
+msgstr ""
+
+#: debian/usr/bin/set.py:85
+msgid "Error"
+msgstr ""
+
+#: debian/usr/bin/set.py:86
+msgid "Unable to check firewall status."
+msgstr ""
+
+#: debian/usr/bin/set.py:122
+msgid "For system safety, proceed with a backup."
+msgstr ""
+
+#: debian/usr/bin/set.py:132
+msgid ""
+"It checks the security status of the PC and periodically displays a "
+"notification if it is in a 'dangerous' state."
+msgstr ""
+
+#: debian/usr/bin/set.py:136
+msgid "Alarm is off."
+msgstr ""
+
+#: debian/usr/bin/set.py:141
+msgid "Alarm is on."
+msgstr ""
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:1
+msgid "Check your PC status"
+msgstr ""
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:2
+msgid "label"
+msgstr ""
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:3
+msgid "System information"
+msgstr ""
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:4
+msgid "Check details"
+msgstr ""
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:5
+msgid "Open Change Password"
+msgstr ""
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:6
+msgid "expander"
+msgstr ""
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:7
+msgid "Open Update Manager"
+msgstr ""
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:8
+msgid "Open Firewall Management"
+msgstr ""
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:9
+msgid "Open Timeshift"
+msgstr ""
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:10
+msgid "hamonikr help page"
+msgstr ""

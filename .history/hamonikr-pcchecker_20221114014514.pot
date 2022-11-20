@@ -1,0 +1,197 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-14 01:42+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: debian/usr/bin/pcchecker.py:27
+msgid "Alarm settings"
+msgstr "알람 설정"
+
+#: debian/usr/bin/pcchecker.py:35
+msgid ""
+"When the alarm is turned on, an alarm is\n"
+" displayed in a pop-up window for the item\n"
+" whose security status is 'dangerous'."
+msgstr ""
+"알람을 켜면 보안 상태가 '위험'인 항목\n"
+"에 대해서 팝업창으로 알람이 보여집니\n"
+"다."
+
+#: debian/usr/bin/pcchecker.py:97
+msgid "Product no"
+msgstr "제품 번호"
+
+#: debian/usr/bin/pcchecker.py:98
+msgid "Operating system"
+msgstr "운영체제"
+
+#: debian/usr/bin/pcchecker.py:99
+msgid "Memory"
+msgstr "메모리"
+
+#: debian/usr/bin/pcchecker.py:100
+msgid "Hard drive"
+msgstr "하드 드라이브"
+
+#: debian/usr/bin/pcchecker.py:108 debian/usr/bin/pcchecker.py:171
+#: debian/usr/bin/pcchecker.py:196
+msgid "Password"
+msgstr "비밀번호"
+
+#: debian/usr/bin/pcchecker.py:109 debian/usr/bin/pcchecker.py:189
+#: debian/usr/bin/pcchecker.py:214
+msgid "Upgrade"
+msgstr "업그레이드"
+
+#: debian/usr/bin/pcchecker.py:110 debian/usr/bin/pcchecker.py:202
+#: debian/usr/bin/pcchecker.py:227
+msgid "Firewall"
+msgstr "방화벽"
+
+#: debian/usr/bin/pcchecker.py:111 debian/usr/bin/pcchecker.py:216
+#: debian/usr/bin/pcchecker.py:241
+msgid "Back up"
+msgstr "백업"
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:1
+msgid "Check your PC status"
+msgstr "PC 상태 확인"
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:2
+msgid "label"
+msgstr ""
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:3
+msgid "System information"
+msgstr "시스템 정보"
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:4
+msgid "Check details"
+msgstr "세부정보 확인"
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:5
+msgid "Open Change Password"
+msgstr "비밀번호 변경 열기"
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:6
+msgid "expander"
+msgstr ""
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:7
+msgid "Open Update Manager"
+msgstr "업데이트 관리자 열기"
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:8
+msgid "Open Firewall Management"
+msgstr "방화벽 관리 열기"
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:9
+msgid "Open Timeshift"
+msgstr "Timeshift 열기"
+
+#: debian/usr/share/hamonikr/pcchecker/pcchecker.glade.h:10
+msgid "hamonikr help page"
+msgstr "하모니카 도움말 페이지"
+
+#: debian/usr/bin/pcchecker.py:118 debian/usr/bin/pcchecker.py:161
+#: debian/usr/bin/set.py:21 debian/usr/bin/set.py:100
+msgid "Safety"
+msgstr "안  전"
+
+#: debian/usr/bin/pcchecker.py:119 debian/usr/bin/pcchecker.py:162
+msgid "Your system is safe."
+msgstr ""
+
+#: debian/usr/bin/pcchecker.py:122 debian/usr/bin/pcchecker.py:165
+#: debian/usr/bin/set.py:24 debian/usr/bin/set.py:49 debian/usr/bin/set.py:102
+msgid "Caution"
+msgstr ""
+
+#: debian/usr/bin/pcchecker.py:123 debian/usr/bin/pcchecker.py:166
+msgid "System administration needs attention."
+msgstr ""
+
+#: debian/usr/bin/pcchecker.py:126 debian/usr/bin/pcchecker.py:169
+#: debian/usr/bin/set.py:27 debian/usr/bin/set.py:104 debian/usr/bin/set.py:111
+msgid "Danger"
+msgstr ""
+
+#: debian/usr/bin/pcchecker.py:127 debian/usr/bin/pcchecker.py:170
+msgid "Please manage the system."
+msgstr ""
+
+#: debian/usr/bin/set.py:22 debian/usr/bin/set.py:25 debian/usr/bin/set.py:28
+msgid "It has been"
+msgstr "비밀번호 변경 후"
+
+#: debian/usr/bin/set.py:22 debian/usr/bin/set.py:25 debian/usr/bin/set.py:28
+msgid "days since you changed your password."
+msgstr "일 지났습니다."
+
+#: debian/usr/bin/set.py:46
+msgid "New"
+msgstr "최   신"
+
+#: debian/usr/bin/set.py:47 debian/usr/bin/set.py:50 debian/usr/bin/set.py:108
+msgid "There are"
+msgstr "업그레이드 가능한 패키지가"
+
+#: debian/usr/bin/set.py:47 debian/usr/bin/set.py:50
+msgid "upgradeable packages."
+msgstr ""
+
+#: debian/usr/bin/set.py:63
+msgid "Inactive"
+msgstr ""
+
+#: debian/usr/bin/set.py:64
+msgid "Firewall is disabled."
+msgstr ""
+
+#: debian/usr/bin/set.py:69
+msgid "Active"
+msgstr ""
+
+#: debian/usr/bin/set.py:70
+msgid "Firewall is enabled."
+msgstr ""
+
+#: debian/usr/bin/set.py:75
+msgid "Error"
+msgstr ""
+
+#: debian/usr/bin/set.py:76
+msgid "Unable to check firewall status."
+msgstr ""
+
+#: debian/usr/bin/set.py:112
+msgid "For system safety, proceed with a backup."
+msgstr ""
+
+#: debian/usr/bin/set.py:122
+msgid ""
+"It checks the security status of the PC and periodically displays a "
+"notification if it is in a 'dangerous' state."
+msgstr ""
+
+#: debian/usr/bin/set.py:126
+msgid "Alarm is off."
+msgstr ""
+
+#: debian/usr/bin/set.py:131
+msgid "Alarm is on."
+msgstr ""
